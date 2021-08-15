@@ -18,4 +18,4 @@ async def ping(ctx):
 
 
 token = getenv('DISCORD_BOT_TOKEN')
-bot.run(token)
+.run(token)
